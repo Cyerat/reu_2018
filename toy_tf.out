@@ -51,3 +51,108 @@ Predictions on test set:
  [  7.          48.989254  ]
  [  8.          55.98772049]
  [  9.          62.98618698]]
+Epoch: 0
+Loss value: 75.3032
+Current predicted value: [[-1.67773962]]
+
+Epoch: 10
+Loss value: 59.0104
+Current predicted value: [[-0.68182236]]
+
+Epoch: 20
+Loss value: 45.0113
+Current predicted value: [[ 0.29095769]]
+
+Epoch: 30
+Loss value: 33.4106
+Current predicted value: [[ 1.21981084]]
+
+Epoch: 40
+Loss value: 24.1268
+Current predicted value: [[ 2.08809328]]
+
+Epoch: 50
+Loss value: 16.9395
+Current predicted value: [[ 2.88423991]]
+
+Epoch: 60
+Loss value: 11.5515
+Current predicted value: [[ 3.60125375]]
+
+Epoch: 70
+Loss value: 7.64064
+Current predicted value: [[ 4.23582935]]
+
+Epoch: 80
+Loss value: 4.89453
+Current predicted value: [[ 4.78764105]]
+
+Epoch: 90
+Loss value: 3.03161
+Current predicted value: [[ 5.25884676]]
+
+Epoch: 100
+Loss value: 1.81254
+Current predicted value: [[ 5.65369511]]
+
+Epoch: 110
+Loss value: 1.04422
+Current predicted value: [[ 5.97812939]]
+
+Epoch: 120
+Loss value: 0.57861
+Current predicted value: [[ 6.23933601]]
+
+Epoch: 130
+Loss value: 0.30774
+Current predicted value: [[ 6.44525719]]
+
+Epoch: 140
+Loss value: 0.156736
+Current predicted value: [[ 6.6041007]]
+
+Epoch: 150
+Loss value: 0.076231
+Current predicted value: [[ 6.72390032]]
+
+Epoch: 160
+Loss value: 0.0352833
+Current predicted value: [[ 6.81216145]]
+
+Epoch: 170
+Loss value: 0.0154731
+Current predicted value: [[ 6.87560892]]
+
+Epoch: 180
+Loss value: 0.00639221
+Current predicted value: [[ 6.92004871]]
+
+Epoch: 190
+Loss value: 0.00246822
+Current predicted value: [[ 6.95031881]]
+
+Epoch: 200
+Loss value: 0.000880861
+Current predicted value: [[ 6.9703207]]
+
+Epoch: 210
+Loss value: 0.000285725
+Current predicted value: [[ 6.9830966]]
+
+Epoch: 220
+Loss value: 8.1961e-05
+Current predicted value: [[ 6.99094677]]
+
+Epoch: 230
+Loss value: 1.97799e-05
+Current predicted value: [[ 6.99555254]]
+
+Predictions on test set:
+[[  2.          13.99405193]
+ [  3.          20.99107742]
+ [  4.          27.98810387]
+ [  5.          34.98513031]
+ [  6.          41.98215485]
+ [  7.          48.9791832 ]
+ [  8.          55.97620773]
+ [  9.          62.97323227]]
